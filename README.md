@@ -34,8 +34,6 @@
       margin: 0 auto;
       padding: 20px;
     }
-
-    /* Header */
     .hero {
       height: 100vh;
       display: flex;
