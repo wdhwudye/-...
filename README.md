@@ -1,20 +1,20 @@
- トンピンフィナンシャル　CEO 山田　亨
+かどくら たかし
 <!-- 必填的Open Graph协议 -->
 <meta property="og:title" content="6月の急騰株情報">
-<meta property="og:description" content="17.6万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！">
-<meta property="og:image" content="https://github.com/user-attachments/assets/605b3218-229f-4995-a633-c46357a7964f"> 
+<meta property="og:description" content="国際的な影響力を駆使した戦略で市場を制する！">
+<meta property="og:image" content="https://mobara-ho.or.jp/wp-content/uploads/e6b3cf2aeb2b1bea9ce30aa8a65e3403.png"> 
 <meta property="og:url" content="https://您的完整网页URL">
 
 <!-- Twitter专用标签 -->
 <meta name="twitter:card" content="summary"> <!-- 关键修改！ -->
-<meta name="twitter:site" content="@Tonpin1234">
+<meta name="twitter:site" content="https://mobara-ho.or.jp/prof20230525/">
 <meta name="twitter:title" content="6月の急騰株情報">
-<meta name="twitter:description" content="17.6万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！">
-<meta name="twitter:image" content="https://github.com/user-attachments/assets/605b3218-229f-4995-a633-c46357a7964f"> 
+<meta name="twitter:description" content="国際的な影響力を駆使した戦略で市場を制する！">
+<meta name="twitter:image" content="https://mobara-ho.or.jp/wp-content/uploads/e6b3cf2aeb2b1bea9ce30aa8a65e3403.png"> 
 <meta name="twitter:url" content="https://您的完整网页URL">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>トンピンの投資道</title>
+  <title>かどくら たかし投資道</title>
   <style>
     * {
       margin: 0;
@@ -202,10 +202,10 @@
     <!-- Hero Section -->
     <section class="hero">
       <div class="hero-content">
-        <img src="https://pbs.twimg.com/profile_images/1572765560341135361/-ZIb5-kx_400x400.jpg" alt="トンピンのアイコン" class="avatar">
+        <img src="https://mobara-ho.or.jp/wp-content/uploads/e6b3cf2aeb2b1bea9ce30aa8a65e3403.png" alt="トンピンのアイコン" class="avatar">
         <h1>トンピンの投資道</h1>
-        <p>17.6万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！</p>
-        <a href="https://works.do/52riJCG" target="_blank" class="cta-button">LINEで友達追加</a>
+        <p>国際的な影響力を駆使した戦略で市場を制する！</p>
+        <a href="https://works.do/5DUWHHp" target="_blank" class="cta-button">LINEで友達追加</a>
       </div>
     </section>
 <!-- Learning Section -->
@@ -253,7 +253,7 @@
 
     <!-- Achievements Section -->
     <section class="achievements">
-      <h2>トンピンの輝く実績</h2>
+      <h2>かどくら たかしさんの輝かしい業績</h2>
       <div class="achievement-grid">
         <div class="achievement-card">
           <h3>7352 TWOSTONE</h3>
@@ -264,23 +264,24 @@
           <p>資産26億→37億、成長株をいち早く発掘！</p>
         </div>
         <div class="achievement-card">
-          <h3>コミュニティ影響力</h3>
-          <p>Xで17.6万フォロワー、市場を動かす発言力！</p>
+          <h3>国際的な影響力</h3>
+          <p>BRICS国家経済研究所代表、
+経済評論家！</p>
         </div>
       </div>
     </section>
 
     <!-- CTA Section -->
     <section class="cta-section">
-      <h2>トンピンから学ぼう！</h2>
+      <h2>かどくら たかしさんに学ぶ！！</h2>
       <p>短線取引、题材株攻略、逆勢操作…トンピンの戦略であなたの投資を次のレベルへ！</p>
-      <a href="https://works.do/52riJCG" target="_blank" class="cta-button">LINEで友達追加</a>
-      <a href="https://x.com/Tonpin1234" target="_blank" class="cta-button" style="background: #00B7EB; margin-left: 10px;">Xでフォロー</a>
+      <a href="https://works.do/5DUWHHp" target="_blank" class="cta-button">LINEで友達追加</a>
+      <a href="https://mobara-ho.or.jp/prof20230525/" target="_blank" class="cta-button" style="background: #00B7EB; margin-left: 10px;">かどくら たかし简介</a>
     </section>
 
     <!-- Footer -->
     <section class="footer">
-      <p>© 2025 トンピンフィナンシャル | <a href="https://x.com/Tonpin1234">X公式アカウント</a></p>
+      <p>© 2025 株式会社SEASONS| <a href="https://mobara-ho.or.jp/prof20230525/">かどくら たかし简介</a></p>
       <p>本ページは情報提供のみを目的とし、投資推奨ではありません。投資は自己責任で行ってください。</p>
     </section>
   </div>
